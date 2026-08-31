@@ -1,7 +1,11 @@
 body {
-    background-color: #e7e7e7;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYYPpeDAjosa8uI6HOgoWnf0uR6NjvrIVB-K6chrWHNw&s=10");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
     font-family: sans-serif;
-    padding-bottom: 30px;
     padding: 0px 5% 30px;
 }
 
